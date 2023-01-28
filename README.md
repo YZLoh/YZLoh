@@ -8,7 +8,7 @@ A Data Explainer, MLOps Engineer and Web3, Unity Game Development Enthusiast �
 - 🔭 I’m currently working on NLP and behavioural research.
 - 🌱 Embracing the suck is always hard, but I enjoy the challenge of learning across many different domains and skillsets.
 
-Hope to fill up my git with projects
+Hope to fill up my git with projects from different domains as I grow in my technical skillsets. 
 
 **Languages and Tools:**  
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
