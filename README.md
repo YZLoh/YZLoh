@@ -17,7 +17,7 @@ Hope to fill up my git with projects from different domains as I grow in my tech
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-
+<code><img height="20" src="https://user-images.githubusercontent.com/16683726/215260015-2e02eee6-cfeb-43d4-b146-f6e39c800044.svg"></code>
 <!--
 **YZLoh/YZLoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
