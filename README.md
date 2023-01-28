@@ -11,13 +11,13 @@ A Data Explainer, MLOps Engineer and Web3, Unity Game Development Enthusiast �
 Hope to fill up my git with projects from different domains as I grow in my technical skillsets. 
 
 **Languages and Tools:**  
+<code><img height="20" src="https://user-images.githubusercontent.com/16683726/215260015-2e02eee6-cfeb-43d4-b146-f6e39c800044.svg"></code>
+<code><img height="20" src="https://user-images.githubusercontent.com/16683726/215259919-e668912d-272b-496f-9a5c-129ede27e657.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/16683726/215259919-e668912d-272b-496f-9a5c-129ede27e657.png"></code>
-
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="20" src="https://user-images.githubusercontent.com/16683726/215260015-2e02eee6-cfeb-43d4-b146-f6e39c800044.svg"></code>
+
 <!--
 **YZLoh/YZLoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
