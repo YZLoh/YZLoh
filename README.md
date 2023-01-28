@@ -7,9 +7,6 @@ A Data Explainer, MLOps Engineer and Web3, Unity Game Development Enthusiast �
 **About Me!** 
 - 🔭 I’m currently working on NLP and behavioural research.
 - 🌱 Embracing the suck is always hard, but I enjoy the challenge of learning across many different domains and skillsets.
-- 📫 How to reach me: <br/>
-[![Linkedin Badge](https://img.shields.io/badge/-jessica-blue?style=flat&logo=Linkedin&logoColor=white](https://www.linkedin.com/in/ying-zhe-george-loh-17756a95)
-[![Gmail Badge](https://img.shields.io/badge/-jtcw-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:theheralding@gmail.com)
 
 Hope to fill up my git with projects
 
