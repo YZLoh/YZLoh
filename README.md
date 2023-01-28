@@ -28,6 +28,6 @@ Here are some ideas to get you started:
 - 🔭 I’m currently working on building my Portifolio with websites
 - 🌱 I’m currently learning Rust, and a bunch of DE/MLE tooling.
 - 💬 Ask me about ...
-- 📫 How to reach me: <a href="https://www.linkedin.com/in/jessica-teo-cha-woon/">LinkedIn</a>
+- 📫 How to reach me: <a href="https://www.linkedin.com/in/ying-zhe-george-loh-17756a95">LinkedIn</a>
 - ⚡ Fun fact: ...
 -->
