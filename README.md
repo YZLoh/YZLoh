@@ -1,6 +1,6 @@
 ### Hey I'm George👋
 
-A Data Explainer, MLOps Engineer and Web3, Unity Game Development Enthusiast 🐱‍🏍
+A Data Explainer, ML Engineer and Web3, Unity Game Development Enthusiast 🐱‍🏍
 
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=jessicateocw.jessicateocw)
 
