@@ -5,7 +5,7 @@ A Data Explainer, ML Engineer and Web3, Unity Game Development Enthusiast 🐱�
 ![Visitor](https://visitor-badge.laobi.icu/badge?page_id=jessicateocw.jessicateocw)
 
 **About Me!** 
-- 🔭 I’m currently working on NLP and behavioural research.
+- 🔭 I’m currently working on Speech Analytics. Previously NLP and behavioural research.
 - 🌱 Embracing the suck is always hard, but I enjoy the challenge of learning across many different domains and skillsets.
 
 Hope to fill up my git with projects from different domains as I grow in my technical skillsets. 
