@@ -2,7 +2,7 @@
 
 A Data Explainer, ML Engineer and Tech Enthusiast 🐱‍🏍
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=YZLoh.YZLoh)
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=YZLoh.YZLoh)
 
 
 **About Me!** 
