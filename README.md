@@ -2,7 +2,7 @@
 
 A Data Explainer, ML Engineer and Tech Enthusiast 🐱‍🏍
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=yzloh.visitor-badge)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=YZloh.YZloh)
 
 **About Me!** 
 - 🔭 I’m currently an Innovation Specialist and AI advocate wearing multiple hats! Most recently a backend developer for Speech Analytics. Also had applied research experience in NLP and behavioural research.
