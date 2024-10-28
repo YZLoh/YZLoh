@@ -17,13 +17,15 @@ Hope to fill up my git with projects from different domains as I grow in my tech
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/986e4a1744c691ef2e09c594efb8a34fcaefb30d/topics/csharp/csharp.png"></code>
+<code><img height="20" src="https://raw.githubusercontent.com/github/explore/986e4a1744c691ef2e09c594efb8a34fcaefb30d/topics/cpp/cpp.png"></code>
 
 <!--
 **YZLoh/YZLoh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on building my Portifolio with websites
+- 🔭 I’m currently picking up new skills relating to cloud platforms, LLM Agents
 - 🌱 I’m currently learning Rust, and a bunch of DE/MLE tooling.
 - 💬 Ask me about ...
 - 📫 How to reach me: <a href="https://www.linkedin.com/in/ying-zhe-george-loh-17756a95">LinkedIn</a>
