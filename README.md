@@ -1,11 +1,11 @@
 ### Hey I'm George👋
 
-A Data Explainer, ML Engineer and Web3, Unity Game Development Enthusiast 🐱‍🏍
+A Data Explainer, ML Engineer and Tech Enthusiast 🐱‍🏍
 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=jessicateocw.jessicateocw)
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=yzloh.yzloh)
 
 **About Me!** 
-- 🔭 I’m currently working on Speech Analytics. Previously NLP and behavioural research.
+- 🔭 I’m currently an Innovation Specialist and AI advocate wearing multiple hats! Most recently a backend developer for Speech Analytics. Also had applied research experience in NLP and behavioural research.
 - 🌱 Embracing the suck is always hard, but I enjoy the challenge of learning across many different domains and skillsets.
 
 Hope to fill up my git with projects from different domains as I grow in my technical skillsets. 
